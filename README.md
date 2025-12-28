@@ -1,2 +1,16 @@
-# Sistema-de-Cadastro-de-Pessoas-C-
-Projeto em C que implementa um sistema CRUD (Create, Read, Update, Delete) para cadastro de pessoas, com persistência de dados em arquivos e menu interativo no terminal.
+# Sistema de Cadastro em C
+
+Projeto em C com cadastro de pessoas usando arquivos texto.
+
+## Funcionalidades
+- Cadastrar
+- Listar
+- Buscar
+- Editar
+- Remover
+
+## Como compilar
+gcc *.c -o sistema
+
+## Como executar
+./sistema
